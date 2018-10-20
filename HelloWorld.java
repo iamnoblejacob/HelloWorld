@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-      for(int index=1;index <=10; index ++)
+      for(int index=1;index <=100; index ++)
          {
         // Prints "Hello, World" to the terminal window.
         System.out.println(index + "  Hello, World");
